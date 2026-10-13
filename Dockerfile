@@ -3,7 +3,7 @@ WORKDIR /app
 RUN apt-get update && apt-get install -y --no-install-recommends python3 make g++ && rm -rf /var/lib/apt/lists/*
 COPY package.json package-lock.json nuxt.config.ts ./
 COPY app/assets/css ./app/assets/css
-RUN --mount=type=cache,target=/root/.npm npm ci
+RUN npm ci
 COPY . .
 ENV NITRO_PRESET=node-server
 RUN npm run typecheck && npm run build
