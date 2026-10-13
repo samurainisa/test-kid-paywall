@@ -1,0 +1,17 @@
+node_modules
+.nuxt
+.output
+data
+**/*.sqlite
+**/*.sqlite-wal
+**/*.sqlite-shm
+**/*.sqlite-journal
+.env
+.env.*
+!.env.example
+test-results
+.git
+source
+reference
+assets
+*.log

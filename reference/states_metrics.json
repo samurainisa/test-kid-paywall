@@ -1,0 +1,1042 @@
+[
+  {
+    "root": "2:570",
+    "nodes": [
+      {
+        "id": "I2:797;2:675",
+        "name": "Период",
+        "type": "TEXT",
+        "x": 72,
+        "y": 389.5,
+        "w": 199,
+        "h": 21,
+        "text": "На месяц",
+        "font": {
+          "family": "Inter",
+          "style": "Semi Bold",
+          "variationSettings": {
+            "wght": 600,
+            "slnt": 0
+          }
+        },
+        "size": 17,
+        "line": {
+          "unit": "AUTO"
+        },
+        "letter": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "colors": [
+          {
+            "rgb": {
+              "r": 0.125490203499794,
+              "g": 0.10196078568696976,
+              "b": 0.2078431397676468
+            },
+            "opacity": 1
+          }
+        ]
+      },
+      {
+        "id": "I2:797;2:677",
+        "name": "Цена",
+        "type": "TEXT",
+        "x": 287,
+        "y": 373.5,
+        "w": 71,
+        "h": 29,
+        "text": "299 ₽",
+        "font": {
+          "family": "Inter",
+          "style": "Bold",
+          "variationSettings": {
+            "wght": 700,
+            "slnt": 0
+          }
+        },
+        "size": 24,
+        "line": {
+          "unit": "PIXELS",
+          "value": 29
+        },
+        "letter": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "colors": [
+          {
+            "rgb": {
+              "r": 0.125490203499794,
+              "g": 0.10196078568696976,
+              "b": 0.2078431397676468
+            },
+            "opacity": 1
+          }
+        ]
+      },
+      {
+        "id": "I2:797;2:678",
+        "name": "Цена в месяц",
+        "type": "TEXT",
+        "x": 306,
+        "y": 406.5,
+        "w": 52,
+        "h": 20,
+        "text": "в месяц",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 13,
+        "line": {
+          "unit": "PIXELS",
+          "value": 20
+        },
+        "letter": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "colors": [
+          {
+            "rgb": {
+              "r": 0.4431372582912445,
+              "g": 0.41960784792900085,
+              "b": 0.5215686559677124
+            },
+            "opacity": 1
+          }
+        ]
+      },
+      {
+        "id": "I2:803;2:682",
+        "name": "Период",
+        "type": "TEXT",
+        "x": 72,
+        "y": 501.5,
+        "w": 180,
+        "h": 21,
+        "text": "На год",
+        "font": {
+          "family": "Inter",
+          "style": "Semi Bold",
+          "variationSettings": {
+            "wght": 600,
+            "slnt": 0
+          }
+        },
+        "size": 17,
+        "line": {
+          "unit": "AUTO"
+        },
+        "letter": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "colors": [
+          {
+            "rgb": {
+              "r": 0.125490203499794,
+              "g": 0.10196078568696976,
+              "b": 0.2078431397676468
+            },
+            "opacity": 1
+          }
+        ]
+      },
+      {
+        "id": "I2:803;2:684",
+        "name": "Цена",
+        "type": "TEXT",
+        "x": 269,
+        "y": 485.5,
+        "w": 89,
+        "h": 29,
+        "text": "1 990 ₽",
+        "font": {
+          "family": "Inter",
+          "style": "Bold",
+          "variationSettings": {
+            "wght": 700,
+            "slnt": 0
+          }
+        },
+        "size": 24,
+        "line": {
+          "unit": "PIXELS",
+          "value": 29
+        },
+        "letter": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "colors": [
+          {
+            "rgb": {
+              "r": 0.125490203499794,
+              "g": 0.10196078568696976,
+              "b": 0.2078431397676468
+            },
+            "opacity": 1
+          }
+        ]
+      },
+      {
+        "id": "I2:803;2:685",
+        "name": "Цена в месяц",
+        "type": "TEXT",
+        "x": 268,
+        "y": 518.5,
+        "w": 90,
+        "h": 20,
+        "text": "166 ₽ в месяц",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 13,
+        "line": {
+          "unit": "PIXELS",
+          "value": 20
+        },
+        "letter": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "colors": [
+          {
+            "rgb": {
+              "r": 0.4431372582912445,
+              "g": 0.41960784792900085,
+              "b": 0.5215686559677124
+            },
+            "opacity": 1
+          }
+        ]
+      },
+      {
+        "id": "I2:812;2:693",
+        "name": "Индикатор загрузки",
+        "type": "FRAME",
+        "x": 113.5,
+        "y": 650,
+        "w": 20,
+        "h": 20,
+        "layoutMode": "HORIZONTAL",
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "itemSpacing": 0,
+        "cornerRadius": 0,
+        "strokeWeight": 1,
+        "clipsContent": true,
+        "colors": []
+      },
+      {
+        "id": "I2:812;2:696",
+        "name": "Действие",
+        "type": "TEXT",
+        "x": 141.5,
+        "y": 648,
+        "w": 135,
+        "h": 24,
+        "text": "Обрабатываем…",
+        "font": {
+          "family": "Inter",
+          "style": "Semi Bold",
+          "variationSettings": {
+            "wght": 600,
+            "slnt": 0
+          }
+        },
+        "size": 16,
+        "line": {
+          "unit": "PIXELS",
+          "value": 24
+        },
+        "letter": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "colors": [
+          {
+            "rgb": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "opacity": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "root": "2:618",
+    "nodes": [
+      {
+        "id": "I2:817;2:675",
+        "name": "Период",
+        "type": "TEXT",
+        "x": 72,
+        "y": 389.5,
+        "w": 199,
+        "h": 21,
+        "text": "На месяц",
+        "font": {
+          "family": "Inter",
+          "style": "Semi Bold",
+          "variationSettings": {
+            "wght": 600,
+            "slnt": 0
+          }
+        },
+        "size": 17,
+        "line": {
+          "unit": "AUTO"
+        },
+        "letter": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "colors": [
+          {
+            "rgb": {
+              "r": 0.125490203499794,
+              "g": 0.10196078568696976,
+              "b": 0.2078431397676468
+            },
+            "opacity": 1
+          }
+        ]
+      },
+      {
+        "id": "I2:817;2:677",
+        "name": "Цена",
+        "type": "TEXT",
+        "x": 287,
+        "y": 373.5,
+        "w": 71,
+        "h": 29,
+        "text": "299 ₽",
+        "font": {
+          "family": "Inter",
+          "style": "Bold",
+          "variationSettings": {
+            "wght": 700,
+            "slnt": 0
+          }
+        },
+        "size": 24,
+        "line": {
+          "unit": "PIXELS",
+          "value": 29
+        },
+        "letter": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "colors": [
+          {
+            "rgb": {
+              "r": 0.125490203499794,
+              "g": 0.10196078568696976,
+              "b": 0.2078431397676468
+            },
+            "opacity": 1
+          }
+        ]
+      },
+      {
+        "id": "I2:817;2:678",
+        "name": "Цена в месяц",
+        "type": "TEXT",
+        "x": 306,
+        "y": 406.5,
+        "w": 52,
+        "h": 20,
+        "text": "в месяц",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 13,
+        "line": {
+          "unit": "PIXELS",
+          "value": 20
+        },
+        "letter": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "colors": [
+          {
+            "rgb": {
+              "r": 0.4431372582912445,
+              "g": 0.41960784792900085,
+              "b": 0.5215686559677124
+            },
+            "opacity": 1
+          }
+        ]
+      },
+      {
+        "id": "I2:823;2:682",
+        "name": "Период",
+        "type": "TEXT",
+        "x": 72,
+        "y": 501.5,
+        "w": 180,
+        "h": 21,
+        "text": "На год",
+        "font": {
+          "family": "Inter",
+          "style": "Semi Bold",
+          "variationSettings": {
+            "wght": 600,
+            "slnt": 0
+          }
+        },
+        "size": 17,
+        "line": {
+          "unit": "AUTO"
+        },
+        "letter": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "colors": [
+          {
+            "rgb": {
+              "r": 0.125490203499794,
+              "g": 0.10196078568696976,
+              "b": 0.2078431397676468
+            },
+            "opacity": 1
+          }
+        ]
+      },
+      {
+        "id": "I2:823;2:684",
+        "name": "Цена",
+        "type": "TEXT",
+        "x": 269,
+        "y": 485.5,
+        "w": 89,
+        "h": 29,
+        "text": "1 990 ₽",
+        "font": {
+          "family": "Inter",
+          "style": "Bold",
+          "variationSettings": {
+            "wght": 700,
+            "slnt": 0
+          }
+        },
+        "size": 24,
+        "line": {
+          "unit": "PIXELS",
+          "value": 29
+        },
+        "letter": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "colors": [
+          {
+            "rgb": {
+              "r": 0.125490203499794,
+              "g": 0.10196078568696976,
+              "b": 0.2078431397676468
+            },
+            "opacity": 1
+          }
+        ]
+      },
+      {
+        "id": "I2:823;2:685",
+        "name": "Цена в месяц",
+        "type": "TEXT",
+        "x": 268,
+        "y": 518.5,
+        "w": 90,
+        "h": 20,
+        "text": "166 ₽ в месяц",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 13,
+        "line": {
+          "unit": "PIXELS",
+          "value": 20
+        },
+        "letter": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "colors": [
+          {
+            "rgb": {
+              "r": 0.4431372582912445,
+              "g": 0.41960784792900085,
+              "b": 0.5215686559677124
+            },
+            "opacity": 1
+          }
+        ]
+      },
+      {
+        "id": "2:837",
+        "name": "Сообщение ошибки",
+        "type": "INSTANCE",
+        "x": 16,
+        "y": 568,
+        "w": 358,
+        "h": 56,
+        "layoutMode": "HORIZONTAL",
+        "paddingLeft": 12,
+        "paddingRight": 12,
+        "paddingTop": 8,
+        "paddingBottom": 8,
+        "itemSpacing": 8,
+        "cornerRadius": 16,
+        "strokeWeight": 1,
+        "clipsContent": true,
+        "colors": [
+          {
+            "rgb": {
+              "r": 1,
+              "g": 0.9411764740943909,
+              "b": 0.9490196108818054
+            },
+            "opacity": 1
+          }
+        ]
+      },
+      {
+        "id": "I2:837;2:701",
+        "name": "Восклицание",
+        "type": "TEXT",
+        "x": 35.5,
+        "y": 587.5,
+        "w": 5,
+        "h": 17,
+        "text": "!",
+        "font": {
+          "family": "Inter",
+          "style": "Bold",
+          "variationSettings": {
+            "wght": 700,
+            "slnt": 0
+          }
+        },
+        "size": 14,
+        "line": {
+          "unit": "AUTO"
+        },
+        "letter": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "colors": [
+          {
+            "rgb": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "opacity": 1
+          }
+        ]
+      },
+      {
+        "id": "I2:837;2:702",
+        "name": "Описание ошибки",
+        "type": "TEXT",
+        "x": 56,
+        "y": 577,
+        "w": 306,
+        "h": 38,
+        "text": "Не удалось выполнить покупку. Попробуйте ещё раз",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 13,
+        "line": {
+          "unit": "PIXELS",
+          "value": 19
+        },
+        "letter": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "colors": [
+          {
+            "rgb": {
+              "r": 0.7137255072593689,
+              "g": 0.25882354378700256,
+              "b": 0.3176470696926117
+            },
+            "opacity": 1
+          }
+        ]
+      },
+      {
+        "id": "I2:832;2:691",
+        "name": "Действие",
+        "type": "TEXT",
+        "x": 95,
+        "y": 648,
+        "w": 200,
+        "h": 24,
+        "text": "Открыть за 1 990 ₽ в год",
+        "font": {
+          "family": "Inter",
+          "style": "Semi Bold",
+          "variationSettings": {
+            "wght": 600,
+            "slnt": 0
+          }
+        },
+        "size": 16,
+        "line": {
+          "unit": "PIXELS",
+          "value": 24
+        },
+        "letter": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "colors": [
+          {
+            "rgb": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "opacity": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "root": "2:1279",
+    "nodes": [
+      {
+        "id": "2:1296",
+        "name": "Доступ открыт",
+        "type": "INSTANCE",
+        "x": 16,
+        "y": 204,
+        "w": 358,
+        "h": 484,
+        "layoutMode": "VERTICAL",
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTop": 48,
+        "paddingBottom": 0,
+        "itemSpacing": 16,
+        "cornerRadius": 0,
+        "strokeWeight": 0,
+        "clipsContent": true,
+        "colors": [
+          {
+            "rgb": {
+              "r": 0.9686274528503418,
+              "g": 0.9686274528503418,
+              "b": 1
+            },
+            "opacity": 1
+          }
+        ]
+      },
+      {
+        "id": "I2:1296;2:707",
+        "name": "Успех",
+        "type": "FRAME",
+        "x": 56.5,
+        "y": 252,
+        "w": 40,
+        "h": 40,
+        "layoutMode": "HORIZONTAL",
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "itemSpacing": 0,
+        "cornerRadius": 100,
+        "strokeWeight": 1,
+        "clipsContent": true,
+        "colors": [
+          {
+            "rgb": {
+              "r": 0.9176470637321472,
+              "g": 0.9686274528503418,
+              "b": 0.9411764740943909
+            },
+            "opacity": 1
+          }
+        ]
+      },
+      {
+        "id": "I2:1296;2:709",
+        "name": "Результат",
+        "type": "TEXT",
+        "x": 108.5,
+        "y": 255,
+        "w": 225,
+        "h": 34,
+        "text": "Доступ открыт!",
+        "font": {
+          "family": "Inter",
+          "style": "Bold",
+          "variationSettings": {
+            "wght": 700,
+            "slnt": 0
+          }
+        },
+        "size": 28,
+        "line": {
+          "unit": "PIXELS",
+          "value": 34
+        },
+        "letter": {
+          "unit": "RAW",
+          "value": -0.6000000238418579
+        },
+        "colors": [
+          {
+            "rgb": {
+              "r": 0.125490203499794,
+              "g": 0.10196078568696976,
+              "b": 0.2078431397676468
+            },
+            "opacity": 1
+          }
+        ]
+      },
+      {
+        "id": "I2:1296;2:834;2:691",
+        "name": "Действие",
+        "type": "TEXT",
+        "x": 137.5,
+        "y": 648,
+        "w": 115,
+        "h": 24,
+        "text": "Начать играть",
+        "font": {
+          "family": "Inter",
+          "style": "Semi Bold",
+          "variationSettings": {
+            "wght": 600,
+            "slnt": 0
+          }
+        },
+        "size": 16,
+        "line": {
+          "unit": "PIXELS",
+          "value": 24
+        },
+        "letter": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "colors": [
+          {
+            "rgb": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "opacity": 1
+          }
+        ]
+      },
+      {
+        "id": "2:1307",
+        "name": "Описание доступа",
+        "type": "TEXT",
+        "x": 24,
+        "y": 316,
+        "w": 342,
+        "h": 44,
+        "text": "Все уровни, персонажи и игровые задания теперь доступны без ограничений",
+        "font": {
+          "family": "Inter",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "slnt": 0
+          }
+        },
+        "size": 15,
+        "line": {
+          "unit": "PIXELS",
+          "value": 22
+        },
+        "letter": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "colors": [
+          {
+            "rgb": {
+              "r": 0.4431372582912445,
+              "g": 0.41960784792900085,
+              "b": 0.5215686559677124
+            },
+            "opacity": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "root": "2:1309",
+    "nodes": [
+      {
+        "id": "2:1330",
+        "name": "Скелетон тарифа",
+        "type": "FRAME",
+        "x": 16,
+        "y": 352,
+        "w": 358,
+        "h": 96,
+        "layoutMode": "HORIZONTAL",
+        "paddingLeft": 16,
+        "paddingRight": 16,
+        "paddingTop": 16,
+        "paddingBottom": 16,
+        "itemSpacing": 16,
+        "cornerRadius": 20,
+        "strokeWeight": 1,
+        "clipsContent": true,
+        "colors": [
+          {
+            "rgb": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "opacity": 1
+          }
+        ]
+      },
+      {
+        "id": "2:1333",
+        "name": "Период",
+        "type": "RECTANGLE",
+        "x": 72,
+        "y": 392,
+        "w": 88,
+        "h": 16,
+        "cornerRadius": 6,
+        "strokeWeight": 1,
+        "colors": [
+          {
+            "rgb": {
+              "r": 0.9137254953384399,
+              "g": 0.9019607901573181,
+              "b": 0.9529411792755127
+            },
+            "opacity": 1
+          }
+        ]
+      },
+      {
+        "id": "2:1335",
+        "name": "Цена",
+        "type": "RECTANGLE",
+        "x": 270,
+        "y": 378,
+        "w": 88,
+        "h": 24,
+        "cornerRadius": 6,
+        "strokeWeight": 1,
+        "colors": [
+          {
+            "rgb": {
+              "r": 0.9137254953384399,
+              "g": 0.9019607901573181,
+              "b": 0.9529411792755127
+            },
+            "opacity": 1
+          }
+        ]
+      },
+      {
+        "id": "2:1336",
+        "name": "Цена в месяц",
+        "type": "RECTANGLE",
+        "x": 286,
+        "y": 410,
+        "w": 72,
+        "h": 12,
+        "cornerRadius": 6,
+        "strokeWeight": 1,
+        "colors": [
+          {
+            "rgb": {
+              "r": 0.9137254953384399,
+              "g": 0.9019607901573181,
+              "b": 0.9529411792755127
+            },
+            "opacity": 1
+          }
+        ]
+      },
+      {
+        "id": "2:1337",
+        "name": "Скелетон тарифа",
+        "type": "FRAME",
+        "x": 16,
+        "y": 464,
+        "w": 358,
+        "h": 96,
+        "layoutMode": "HORIZONTAL",
+        "paddingLeft": 16,
+        "paddingRight": 16,
+        "paddingTop": 16,
+        "paddingBottom": 16,
+        "itemSpacing": 16,
+        "cornerRadius": 20,
+        "strokeWeight": 1,
+        "clipsContent": true,
+        "colors": [
+          {
+            "rgb": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "opacity": 1
+          }
+        ]
+      },
+      {
+        "id": "2:1340",
+        "name": "Период",
+        "type": "RECTANGLE",
+        "x": 72,
+        "y": 504,
+        "w": 64,
+        "h": 16,
+        "cornerRadius": 6,
+        "strokeWeight": 1,
+        "colors": [
+          {
+            "rgb": {
+              "r": 0.9137254953384399,
+              "g": 0.9019607901573181,
+              "b": 0.9529411792755127
+            },
+            "opacity": 1
+          }
+        ]
+      },
+      {
+        "id": "2:1342",
+        "name": "Цена",
+        "type": "RECTANGLE",
+        "x": 270,
+        "y": 490,
+        "w": 88,
+        "h": 24,
+        "cornerRadius": 6,
+        "strokeWeight": 1,
+        "colors": [
+          {
+            "rgb": {
+              "r": 0.9137254953384399,
+              "g": 0.9019607901573181,
+              "b": 0.9529411792755127
+            },
+            "opacity": 1
+          }
+        ]
+      },
+      {
+        "id": "2:1343",
+        "name": "Цена в месяц",
+        "type": "RECTANGLE",
+        "x": 286,
+        "y": 522,
+        "w": 72,
+        "h": 12,
+        "cornerRadius": 6,
+        "strokeWeight": 1,
+        "colors": [
+          {
+            "rgb": {
+              "r": 0.9137254953384399,
+              "g": 0.9019607901573181,
+              "b": 0.9529411792755127
+            },
+            "opacity": 1
+          }
+        ]
+      },
+      {
+        "id": "I2:1346;2:691",
+        "name": "Действие",
+        "type": "TEXT",
+        "x": 110,
+        "y": 648,
+        "w": 170,
+        "h": 24,
+        "text": "Загружаем тарифы…",
+        "font": {
+          "family": "Inter",
+          "style": "Semi Bold",
+          "variationSettings": {
+            "wght": 600,
+            "slnt": 0
+          }
+        },
+        "size": 16,
+        "line": {
+          "unit": "PIXELS",
+          "value": 24
+        },
+        "letter": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "colors": [
+          {
+            "rgb": {
+              "r": 0.3843137323856354,
+              "g": 0.35686275362968445,
+              "b": 0.4627451002597809
+            },
+            "opacity": 1
+          }
+        ]
+      }
+    ]
+  }
+]
